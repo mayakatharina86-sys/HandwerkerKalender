@@ -1,0 +1,13 @@
+{
+  "name": "handwerk-planer",
+  "version": "3.0.0",
+  "private": true,
+  "description": "Digitale Mitarbeiter- und Einsatzplanung (Cloudflare Workers + D1)",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.45.0"
+  }
+}
